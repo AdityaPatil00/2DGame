@@ -1,4 +1,4 @@
-Name:Aditya Dinesh Patil(adpatil)
+Name:Aditya Dinesh Patil
 Clemson Email Address: adpatil@g.clemson.edu
 Alternate email-aaddiipp243@gmail.com
 
@@ -25,7 +25,12 @@ How to start the game.
 
 
 			Implementation details:
-A home screen appears initially.The game starts on pressing SPACE.The health of the girl is upper right corner.The girl shoots the ghosts with green leaves.Conclusion screen appears after the girl wins the game.Game can be restarted back to the home screen on pressing r.The girl can shoot only in right or left directions.The verticl motion is restricted of the girl only upto which the path exists(so that it does not float).AI is used to make ghost smart so that they detect the girl and come near to attack her.Background music has been added suited to the game.God mode has been implemented wherin girl remains unaffected by the ghosts.It can be enabled by pressing g.
+A home screen appears initially.
+The game starts on pressing SPACE.The health of the girl is upper right corner.
+The girl shoots the ghosts with green leaves.Conclusion screen appears after the girl wins the game.Game can be restarted back to the home screen on pressing r.The girl can shoot only in right or left directions.
+The verticl motion is restricted of the girl only upto which the path exists(so that it does not float).AI is used to make ghost smart so that they detect the girl and come near to attack her.
+Background music has been added suited to the game.
+God mode has been implemented wherin girl remains unaffected by the ghosts.It can be enabled by pressing g.
 
 
  
